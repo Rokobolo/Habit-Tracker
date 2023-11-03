@@ -66,3 +66,8 @@ Same as the others, pop-ups will appear based on the result. <br />
 It is important to note that if you update an already existing pixel, it will overwrite it. You can reset a pixel by inputing "0" for that date.
 
 ![image](https://github.com/Rokobolo/Habit-Tracker/assets/139471568/2fdeda43-16f4-4789-8253-745d5d598b97)
+
+# Testing the software
+While building the software, I wanted to ensure that everything was working. To ensure nothing was amiss, I made sure to build a test case on the fly as I was typing my code. I ran the test case few times at important moments of the process to make sure the code was working (or not) as intended.
+
+![image](https://github.com/Rokobolo/Habit-Tracker/assets/139471568/a916a345-3039-4146-8030-02e501d2bee8)
