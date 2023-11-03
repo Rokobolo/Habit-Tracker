@@ -104,7 +104,7 @@ class PixelaInterface:
 
         btn1 = StringVar()
 
-        measure_unit_name_label = Label(self.frame, text="Unit measure: ")
+        measure_unit_name_label = Label(self.frame, text="Weight: ")
         measure_unit_name_label.grid(row=6, column=0, columnspan=2)
         measure_unit_btn1 = Radiobutton(self.frame,
                                         text="Integer",
